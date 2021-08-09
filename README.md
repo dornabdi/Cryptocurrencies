@@ -6,15 +6,15 @@ In this project, I created a report that includes what cryptocurrencies are on t
 
 ### Deliverable 1
 Preprocessing the Data for PCA
-![d1](images/d1)
+![d1](images/d1.png)
 
 ### Deliverable 2
 Reducing Data Dimensions Using PCA
-![d2](images/d2)
+![d2](images/d2.png)
 
 
 ### Deliverable 3 & 4
 Clustering Cryptocurrencies Using K-means and visualizing the results.  
-![d4](images/d4)
+![d4](images/d4.png)
 
 
